@@ -1,6 +1,6 @@
 ## Player Detection and Tracking An application to track and detect players of Indian Women's National Cricket Team playing in the international stadium. It uses [Intel OpenVino](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) for optimal utlisation of the hardware for optimal performance. It can accept input in 2 forms : 1\. image 2\. video ### Sample application input and output : 1\. **Image :**
 
-<figure>![](sample_input_and_output/input&Output/image/sample_input.png)
+<img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/image/sample_input.png"></img><br>
 
 <figcaption style="text-align:center;">Frame containing players playing in a international stadium</figcaption>
 
