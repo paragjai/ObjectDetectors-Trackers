@@ -14,14 +14,13 @@ An application to track and detect players of Indian Women's National Cricket Te
 1\. **Image :**
 
 <img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/image/sample_input.png"></img>
-		Frame containing players playing in a international stadium
+<p align="center">Frame containing players playing in a international stadium</p>
 
 
 
-<div style="text-align:center">
+
 <img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/image/sample_output.png"></img>
-Frame containing players with detected and tracked players
-</div>
+<p align="center">Frame containing players with detected and tracked players</p>
 
 
 2\. **Video :**
@@ -30,10 +29,9 @@ Frame containing players with detected and tracked players
 <p align="center">Video input containing players</p>
 
 
-<div style="text-align:center">
 <img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/video/sample_output.gif"></img>
-Video output with players detected and tracked
-</div>
+<p align="center">Video output with players detected and tracked</p><br>
+
 
 
 Code access and more details related to model used for inferencing and implementation : Source code for the application can be found <a href="">here</a>. Contact at [paragjainpes@gmail.com](mailto: paragjainpes@gmail.com) for more details.
