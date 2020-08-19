@@ -34,5 +34,5 @@ An application to track and detect players of Indian Women's National Cricket Te
 
 
 
-### Code access and details related to model used for inferencing and implementation :<br>
+### Details related to implementation  :<br>
 Source code for the application can be found <a href="">here</a>. Contact at <paragjainpes@gmail.com> for more details.
