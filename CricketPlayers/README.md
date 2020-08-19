@@ -13,10 +13,10 @@ An application to track and detect players of Indian Women's National Cricket Te
 
 1\. **Image :**
 
-<div style="text-align:center">
 <img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/image/sample_input.png"></img>
-Frame containing players playing in a international stadium
-</div>
+		Frame containing players playing in a international stadium
+
+
 
 
 <div style="text-align:center">
