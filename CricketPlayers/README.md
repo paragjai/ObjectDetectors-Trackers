@@ -20,7 +20,7 @@ An application to track and detect players of Indian Women's National Cricket Te
 
 
 <img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/image/sample_output.png"></img>
-<p align="center">Frame containing players with detected and tracked players</p>
+<p align="center" style="margin-top:0px;">Frame containing players with detected and tracked players</p>
 
 
 2\. **Video :**
