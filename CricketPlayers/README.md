@@ -18,7 +18,6 @@ An application to track and detect players of Indian Women's National Cricket Te
 
 
 
-
 <div style="text-align:center">
 <img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/image/sample_output.png"></img>
 Frame containing players with detected and tracked players
@@ -27,10 +26,9 @@ Frame containing players with detected and tracked players
 
 2\. **Video :**
 
-<div style="text-align:center">
 <img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/video/sample_input.gif"></img>
-Video input containing players
-</div>
+<p align="center">Video input containing players</p>
+
 
 <div style="text-align:center">
 <img style="padding:0;display:block;margin:0 auto;max-height: 100%;max-width: 100%;border: 5px solid #555;" src="sample_input_and_output/input&Output/video/sample_output.gif"></img>
