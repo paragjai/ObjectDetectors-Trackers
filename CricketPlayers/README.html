@@ -1,0 +1,52 @@
+<html>
+<head>
+    <style>
+	     #myGif {
+	    padding: 0;
+	    display: block;
+	    margin: 0 auto;
+	    max-height: 100%;
+	    max-width: 100%;
+	 	border: 5px solid #555;
+	}
+	
+
+    </style>
+</head>
+<h2>Player Detection and Tracking</h2>
+
+An application to track and detect players of Indian Women's National Cricket Team playing in the international stadium. It uses <a href="https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html">Intel OpenVino</a> for optimal utlisation of the hardware for optimal performance. It can accept input in 2 forms :
+<ol>
+<li>image</li>
+<li>video</li>
+</ol>
+
+<h3>Sample application input and output :</h3>
+<ol>
+<li>
+<b>Image :</b>
+<figure>
+<img id="myGif" src="sample_input_and_output/input&Output/image/sample_input.png"></img><br>
+<figcaption style="text-align:center;">Frame containing players playing in a international stadium</figcaption>
+</figure><br>
+<figure>
+<img  id="myGif"  src="sample_input_and_output/input&Output/image/sample_output.png"><br>
+ <figcaption style="text-align:center;">Frame containing players with detected and tracked players</figcaption>
+</figure><br><br>
+</li>
+<li>
+<b>Video :</b><br>
+<figure>
+<img id="myGif" src="sample_input_and_output/input&Output/video/sample_input.gif" ><br>
+ <figcaption style="text-align:center;">Video input containing players</figcaption>
+</figure><br>
+<figure>
+<img id="myGif" src="sample_input_and_output/input&Output/video/sample_output.gif"></img><br>
+ <figcaption style="text-align:center;">Video output with players detected and tracked</figcaption>
+</figure>
+</li>
+</ol>
+
+<h3>Code access and more details related to model used for inferencing and implementation :</h3>
+Source code for the application can be found <a href="">here</a>. Contact at <a href = "mailto: paragjainpes@gmail.com">paragjainpes@gmail.com</a> for more details.
+</html>
